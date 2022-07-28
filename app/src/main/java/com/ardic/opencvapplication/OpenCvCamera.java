@@ -118,27 +118,3 @@ public class OpenCvCamera extends Activity implements CameraBridgeViewBase.CvCam
         return mRGB;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
